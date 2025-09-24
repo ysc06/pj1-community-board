@@ -2,7 +2,7 @@
 
 Submitted by: **Yu-Shan Cheng**
 
-This web app: **displays a community board of 10 travel destinations, showing the destination name, country, and the best month to visit. Each destination is displayed in a responsive card format arranged in a grid.**
+This web app: displays a community board of 10 travel destinations, showing the destination name, country, and the best month to visit. Each destination is displayed in a responsive card format arranged in a grid.
 
 Time spent: **3 hours spent in total**
 
@@ -10,9 +10,9 @@ Time spent: **3 hours spent in total**
 
 The following **required** functionality is completed:
 
-- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+- [x] The app has a cohesive, unique theme for events or resources relevant to a specific community
 - [x] Header/title describing the theme is displayed
-- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+- [x] At least 10 unique events or resources are displayed in a responsive card format
 - [x] There are at least 10 cards displayed 
 - [x] The cards are displayed in an organized format (responsive grid)
 - [x] Each card includes information about the event or resource (destination, country, best month)
